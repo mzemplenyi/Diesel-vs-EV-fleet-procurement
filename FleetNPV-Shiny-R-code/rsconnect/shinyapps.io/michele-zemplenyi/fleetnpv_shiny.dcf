@@ -1,0 +1,12 @@
+name: fleetnpv_shiny
+title:
+username:
+account: michele-zemplenyi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3417729
+bundleId: 4013587
+url: https://michele-zemplenyi.shinyapps.io/fleetnpv_shiny/
+when: 1608520709.96104
+asMultiple: FALSE
+asStatic: FALSE
